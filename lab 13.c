@@ -5,6 +5,8 @@
 #include<locale.h>
 #include<time.h>
 main() {
+	
+	
 	const int maxSize=50;
 	int a[maxSize],x,k=0,n,b[maxSize],c[maxSize],m,j=0,i;
 	srand(time(0));
